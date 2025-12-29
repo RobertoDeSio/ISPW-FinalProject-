@@ -1,4 +1,4 @@
-package it.torvergata.ispw.realfinalproject;
+package org.ispw.eventi;
 
 
 import javafx.application.Application;
