@@ -4,4 +4,5 @@ module it.torvergata.ispw.realfinalproject {
 
     opens it.torvergata.ispw.realfinalproject to javafx.fxml;
     exports it.torvergata.ispw.realfinalproject;
+
 }
