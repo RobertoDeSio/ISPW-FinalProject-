@@ -4,5 +4,4 @@ module it.torvergata.ispw.realfinalproject {
 
     opens org.ispw.eventi to javafx.fxml;
     exports org.ispw.eventi;
-
 }
